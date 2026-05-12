@@ -1,1 +1,3 @@
 #+title: Ascii to image converter
+
+[[output.png]]
